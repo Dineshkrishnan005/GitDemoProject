@@ -21,7 +21,8 @@ public class Class2 {
 	}
 }
 		System.out.println("maximum value is "+max);
-
+		
+        System.out.println("Completed!");
 	}
 	}
 
